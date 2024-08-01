@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-- 🖥 I'm a Software Developer
+- 🖥 I'm a Associate Software Engineer
 - :male-technologist: Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
 - :male-student: Studied Higher National Diploma in ICT at Galle COT.
 - :e-mail: Contact me: rushanchith123@gmail.com
