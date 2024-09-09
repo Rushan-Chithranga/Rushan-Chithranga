@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Anguler , Flutter , Spring**
 
-- 👨‍💻  Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
+- 👨‍💻 Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
 
-- 👨‍💻  Studied Higher National Diploma in ICT at Galle COT.
+- 📄 Studied Higher National Diploma in ICT at Galle COT.
 
 - 💬 Ask me about **Java , JavaScript, Laravel, React, Nodejs**
 
