@@ -1,3 +1,5 @@
+![Banner image](assets/RushanBanner.webp)
+
 <h1 align="center">Hi 👋, I'm Rushan Chithranga.</h1>
 <h3 align="center"> 🖥 I'm a Associate Software Engineer</h3>
 
