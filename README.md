@@ -42,6 +42,9 @@
   </picture>
 </p>
 
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rushan-Chithranga&show_icons=true&include_all_commits=true&theme=default" />
+
+
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rushan-Chithranga&theme=dracula" />
