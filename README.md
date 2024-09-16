@@ -42,7 +42,7 @@
   </picture>
 </p>
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rushan-Chithranga&show_icons=true&include_all_commits=true&theme=default" />
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rushan-Chithranga&show_icons=true&include_all_commits=true&theme=dracula" />
 
 
 <p align="left">
