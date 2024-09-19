@@ -4,7 +4,7 @@
 <h3 align="center"> 🖥 I'm a Associate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rushan-Chithrang&label=Profile%20views&color=0e75b6&style=flat" alt="rushan" /> </p>
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Rushan+Chithranga" height="40"/>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Rushan+Chithranga" height="40"/></p>
 
 - 🌱 I’m currently learning **Anguler , Flutter , Spring**
 
