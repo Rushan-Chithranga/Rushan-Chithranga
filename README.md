@@ -1,6 +1,6 @@
 ![Banner image](assets/RushanBanner.webp)
 
-<h1 align="center">Hi 👋, I'm Rushan Chithranga.</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" />, I'm Rushan Chithranga.</h1>
 <h3 align="center"> 🖥 I'm a Associate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rushan-Chithrang&label=Profile%20views&color=0e75b6&style=flat" alt="rushan" /> </p>
