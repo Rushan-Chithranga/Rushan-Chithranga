@@ -16,12 +16,16 @@
 
 - 📫 How to reach me **rushanchith123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/_yazaaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yazaaaa_" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/rushan-chithranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rushan Chithranga" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/___y_a_s_a___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___y_a_s_a___" height="30" width="40" /></a> -->
-</p>
+
+## Connect with me
+<div align="left">
+  <a href="https://www.linkedin.com/in/rushan-chithranga" target="blank">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
 
 ## 🔧 Technologies & Tools
 ![Github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
