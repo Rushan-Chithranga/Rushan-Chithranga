@@ -28,7 +28,13 @@
    <a href="https://www.instagram.com/rushan_chithranga/" target="blank">
     <img
       src="https://img.shields.io/static/v1?logo=Instagram&style=for-the-badge&color=0072b1&label=instagram&message=%E2%98%86"
-      alt="LinkedIn"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://web.facebook.com/rushan.cithranga" target="blank">
+    <img
+      src="https://img.shields.io/static/v1?logo=Facebook&style=for-the-badge&color=0072b1&label=Facebook&logoColor=blue&message=%E2%98%86"
+      alt="Facebook"
     />
   </a>
 </div>
