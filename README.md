@@ -21,7 +21,13 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/rushan-chithranga" target="blank">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&logoColor=blue&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+   <a href="https://www.instagram.com/rushan_chithranga/" target="blank">
+    <img
+      src="https://img.shields.io/static/v1?logo=Instagram&style=for-the-badge&color=0072b1&label=instagram&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
