@@ -73,8 +73,19 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+## 🎯 Roadmap.sh Projects
 
+<a href="https://roadmap.sh">
+  <img align="right" src="https://roadmap.sh/card/wide/678382cc70129741a834f06c?variant=dark" alt="roadmap.sh"/>
+</a>
+<br />
 
+- [Backend Projects](https://github.com/Rushan-Chithranga/backend-projects)
+- [Frontend Projects](https://github.com/Rushan-Chithranga/frontend-projects)
+- [Github User Activity](https://github.com/Rushan-Chithranga/github-user-activity)
+- [Devops Projects](https://github.com/Rushan-Chithranga/deveops-projects)
+
+## &#x1f4c8; GitHub Stats
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushan-Chithranga&exclude_repo=Rushan-Chithranga&layout=compact&theme=dracula" />
