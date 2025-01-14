@@ -1,7 +1,9 @@
-![Banner image](assets/RushanBanner.webp)
 
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" />, I'm Rushan Chithranga.</h1>
-<h3 align="center"> 🖥 I'm a Associate Software Engineer</h3>
+<p align='center'>
+<img width='100%' src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Rushan%20Chithranga&textBg=false&fontAlignY=50&animation=twinkling&section=header&desc=Associat%20Software%20Eginner" />
+</p>
+
+<h1 align="center">Hey, GitHubers! <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" /></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rushan-Chithrang&label=Profile%20views&color=0e75b6&style=flat" alt="rushan" /> </p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Rushan+Chithranga" height="40"/></p>
