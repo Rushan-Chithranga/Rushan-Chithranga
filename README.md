@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rushan-Chithrang&label=Profile%20views&color=0e75b6&style=flat" alt="rushan" /> </p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Rushan+Chithranga" height="40"/></p>
 
-- 🌱 I’m currently learning **Anguler , Flutter , Spring**
+- 🌱 I’m currently learning **Angular , Flutter , Spring**
 
 - 👨‍💻 Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
 
