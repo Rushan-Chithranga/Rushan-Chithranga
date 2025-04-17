@@ -1,6 +1,6 @@
 
 <p align='center'>
-<img width='100%' src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Rushan%20Chithranga&textBg=false&fontAlignY=50&animation=twinkling&section=header&desc=Associat%20Software%20Engineer" />
+<img width='100%' src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Rushan%20Chithranga&textBg=false&fontAlignY=50&animation=twinkling&section=header&desc=Associate%20Software%20Engineer" />
 </p>
 
 <h1 align="center">Hey, GitHubers! <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" /></h1>
