@@ -1,6 +1,6 @@
 
 <p align='center'>
-<img width='100%' src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Rushan%20Chithranga&textBg=false&fontAlignY=50&animation=twinkling&section=header&desc=Associate%20Software%20Engineer" />
+<img width='100%' src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Rushan%20Chithranga&textBg=false&fontAlignY=50&animation=twinkling&section=header&desc=20Software%20Engineer" />
 </p>
 
 <h1 align="center">Hey, GitHubers! <img src="https://raw.githubusercontent.com/pasindu-kavinda/pasindu-kavinda/main/wave.gif" width="30px" height="30px" /></h1>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular , Flutter , Spring**
 
-- 👨‍💻 Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
+- 👨‍💻 Currently working as a Software Developer at Sanmark Solutions Pvt Ltd.
 
 - 📄 Studied Higher National Diploma in ICT at Galle COT.
 
